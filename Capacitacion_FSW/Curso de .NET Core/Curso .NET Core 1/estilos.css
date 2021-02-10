@@ -1,0 +1,21 @@
+/*Cambiamos el estilo de las etiquetas aside*/
+.aside{
+    color: blue;
+    font-family: cursive;
+} 
+
+/*el aside que esta hasta abajo*/
+.info{
+    color: red;
+    font-family: cursive;
+}
+
+body{
+    /*Color de fondo*/
+    background-color: black;
+    /*Color y tipo de fuente*/
+    font-family: monospace;
+    color: slateblue;
+    /*Alineacion del texto*/
+    text-align: center;
+}
